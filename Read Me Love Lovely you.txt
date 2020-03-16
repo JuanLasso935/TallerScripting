@@ -1,4 +1,4 @@
-Instrucciones:
+﻿Instrucciones:
 1.En la pantalla principal aparece un boton en todo el medio, ahí comienza el juego
 2.Puedes elegir cualquier de las chicas(en este caso escogimos las fotos de Karol G, Ariana Grande y Taylor Swift)
 https://www.last.fm/es/music/Karol+G/+images/c6ff5889576bd8152f31723712bd4d93
@@ -9,13 +9,20 @@ https://jornaldebrasilia.com.br/nahorah/ariana-grande-e-artista-com-maior-rendim
 5.Para que el juego no tenga un tiempo infinito, se restringe este
 6.Ganas cuando consigues una cantidad de puntos y pierdes si no logras clickear las burbujas
 Hay 6 tipos de burbujas que caen
-Flirt amarillo
-Love rojo
-Intelligence azul
-Intimacy verde
-Affection morado
-Boorish gris
+Flirt 
+Love
+Intelligence 
+Intimacy 
+Affection 
+Boorish 
 
+https://www.youtube.com/watch?v=nTt7SOfAHVY
+https://docs.unity3d.com/Manual/index.html
+https://docs.unity3d.com/ScriptReference/Physics.Raycast.html
+https://answers.unity.com/questions/1087239/get-2d-collider-with-3d-ray.html
+https://answers.unity.com/questions/1618260/event-manager-using-events-with-different-paramete.html
 Bugs 
 Pueden haber bugs con la interfaz con respecto a resoluciones del canvas
 
+Link ejecutable:https://drive.google.com/open?id=1HDJ-Vg7yyXvRxdV5uv8CttsmI-hBJBRA
+Back Up proyecto unity:https://drive.google.com/open?id=1Eb8BFN77GZ-uim9Ux9MHJCw5zC3s5puX
